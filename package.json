@@ -1,0 +1,6 @@
+{
+  "name": "com.caldas.build-notifier",
+  "version": "1.0.0",
+  "displayName": "Build Notifier",
+  "description": "Uses Pushover to send a Push Notification to your devices  when Unity build is finished."
+}
